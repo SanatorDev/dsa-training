@@ -24,5 +24,5 @@ Use `--` so npm forwards the arguments to the generator.
 
 | Challenge | Pattern | Difficulty | Time complexity | Status |
 | --- | --- | --- | --- | --- |
-| Reverse String | Two pointers | Easy | O(n) | ⏰ In Progress |
+| Reverse String | Two pointers | Easy | O(n) | ✅ Completed |
 
