@@ -24,7 +24,5 @@ Use `--` so npm forwards the arguments to the generator.
 
 | Challenge | Pattern | Difficulty | Time complexity | Status |
 | --- | --- | --- | --- | --- |
-| Valid Palindrome | Two pointers | Easy | O(n) | ✅ Complete |
-| Course Schedule | Graph (BFS) | Medium | O(V + E) | 🔄 Needs review |
+| Reverse String | Two pointers | Easy | O(n) | ⏰ In Progress |
 
-Update this table as you add or revisit problems.
