@@ -25,4 +25,4 @@ Use `--` so npm forwards the arguments to the generator.
 | Challenge | Pattern | Difficulty | Time complexity | Status |
 | --- | --- | --- | --- | --- |
 | Reverse String | Two pointers | Easy | O(n) | ✅ Completed |
-
+| Minimum subarray length | Sliding Window | Easy | O(n) | ✅ Completed |
